@@ -1,0 +1,4 @@
+breadL100|Basic Loaf 1 KG|1
+breadL200|Basic Loaf 2 KG|30
+breadL150S|Chef's special 1.5 KG|99
+breadL125|Basic Loaf 1.25 KG|38

@@ -1,0 +1,29 @@
+	                Production Plan
+	Recipe         Description                    Qty
+
+	breadL100      Basic Loaf 1 KG                  1
+	breadL200      Basic Loaf 2 KG                 30
+	breadL150S     Chef's special 1.5 KG           99
+	breadL125      Basic Loaf 1.25 KG              38
+	breadL100      Basic Loaf 1 KG                  1
+	breadL200      Basic Loaf 2 KG                 30
+	breadL150S     Chef's special 1.5 KG           99
+	breadL125      Basic Loaf 1.25 KG              38
+
+	                    Ingredients Requirements
+	Ingredient         StockLevel        Demand       Shortfall
+
+	FLOUR                 20000.0         25700        5700.0 g
+	SALT                   1000.0             0            NA  
+	YEAST                   500.0             0            NA  
+	RAISIN                 1200.0             0            NA  
+	SUGAR                   112.5             0            NA  
+	BUTTER                  300.0             0            NA  
+	MILK                   2000.0         30000       28000.0 g
+	FLOUR                 20000.0         25700        5700.0 g
+	SALT                   1000.0             0            NA  
+	YEAST                   500.0             0            NA  
+	RAISIN                 1200.0             0            NA  
+	SUGAR                   112.5             0            NA  
+	BUTTER                  300.0             0            NA  
+	MILK                   2000.0         30400       28400.0 g

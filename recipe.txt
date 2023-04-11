@@ -1,0 +1,6 @@
+breadL150S|FLOUR|g|150
+breadL125|FLOUR|g|125
+breadL200|FLOUR|g|200
+breadL200|MILK|g|1000
+breadL100|FLOUR|g|100
+breadL100|MILK|g|400
